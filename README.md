@@ -39,7 +39,7 @@ To use this exercise you should either:
 Then in Azure Notebooks or Jupyter Notebook:
 * open the workbook **ex_B_workbook.ipynb** and work through it.
 * once you have completed the workbook, then move onto the homework book **ex_B_homework.ipynb**
-* we will go through everyones completed notebook in *Seminar A*.
+* we will go through everyones completed notebook in *Seminar B*.
 
 -------------------------
 
