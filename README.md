@@ -1,4 +1,4 @@
-# Exercise B: lists and strings.
+# Practical C: lists and strings.
 
 Before starting this exercise you should work through
 
