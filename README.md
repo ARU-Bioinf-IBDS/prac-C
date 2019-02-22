@@ -1,19 +1,20 @@
 # Practical C: lists and strings.
 
-Before starting this exercise you should work through
+
+To prepare for this practical you should first work through
 
 * *Chapter 2 Python Lists*
 * *Chapter 3 Function and Packages*
 
-from the
-[DataCamp online course Intro to Python for Data Science
+from the [DataCamp](https://www.datacamp.com/)
+online course [Intro to Python for Data Science
 ](https://www.datacamp.com/courses/intro-to-python-for-data-science).  
-We will then use what you have learnt there to explore how biological 
-sequence data can be handled in Python. We will be concentration
+What you have learnt there is then used to explore
+how biological sequence data can be handled in Python. We will be concentrating
 on how lists can be used and their similarities and differences to 
 strings.
 
-To use this exercise you should either:
+To use this practical you should either:
 
 * Import the exercise as a library into your Azure Notebooks account,
   by clicking on: 
@@ -51,5 +52,8 @@ Then in Azure Notebooks or Jupyter Notebook:
   https://www.anglia.ac.uk/bioinformatician),
 > [School of Life Sciences](https://www.anglia.ac.uk/science-and-engineering/life-sciences),
 > Anglia Ruskin University
->
 > Copyright (c) 2018-2019 Anglia Ruskin University
+
+> <img src="https://aru-bioinf-ibds.github.io./images/DataCamp_Horizontal_RGB.svg" width="150"> 
+>
+> **A big thanks to [DataCamp](https://www.datacamp.com/) for supporting this class!**
