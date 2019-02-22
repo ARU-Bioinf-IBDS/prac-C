@@ -44,15 +44,12 @@ Then in Azure Notebooks or Jupyter Notebook:
 -------------------------
 
 > This exercise is part of 
-> [Practical A: Introduction to Python for Bioinformatics](https://github.com/ARU-Bioinformatics/ibdsA-index/blob/master/README.md)
->
-> Module:
->  *Introduction to Bioinformatics and Data Science* 
+> [Introduction to Bioinformatics and Data Science, Practicals](https://github.com/ARU-Bioinf-IBDS/index/)
 >
 > Original author: [Oliver S. Smart](https://www.linkedin.com/in/osmart/),
-> developed for BSc Bioinformatics Degree Apprenticeship,
->  [Department of Biomedical & Forensic Sciences,
->  Anglia Ruskin University
->  ](https://www.anglia.ac.uk/science-and-technology/about/biomedical-and-forensic-science).
+> developed for [BSc (Hons) Bioinformatics Degree Apprenticeship](
+  https://www.anglia.ac.uk/bioinformatician),
+> [School of Life Sciences](https://www.anglia.ac.uk/science-and-engineering/life-sciences) 
+> Anglia Ruskin University
 >
-> Copyright (c) 2018 Anglia Ruskin University
+> Copyright (c) 2018-2019 Anglia Ruskin University
