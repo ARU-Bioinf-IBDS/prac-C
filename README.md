@@ -1,6 +1,22 @@
 # Practical C: lists and strings.
 
+## Practical Learning Outcomes
 
+This practical looks at how to work with lists in Python and explores how strings and lists are related. 
+
+By the end of Practical C you will be able to:
+* define a Python list
+* append items to a list
+* find the number of items in a list
+* get a specific element from a list using its index
+* use list slices to get a subset of a list
+* reverse a list
+* replace a list element
+* delete a list element
+* understand the similarities and differences between strings and lists in Python.
+
+
+## Preparation
 To prepare for this practical you should first work through
 
 * *Chapter 2 Python Lists*
@@ -14,6 +30,7 @@ how biological sequence data can be handled in Python. We will be concentrating
 on how lists can be used and their similarities and differences to 
 strings.
 
+## The practical
 To use this practical you should either:
 
 * Import the exercise as a library into your Azure Notebooks account,
