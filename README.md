@@ -49,7 +49,7 @@ Then in Azure Notebooks or Jupyter Notebook:
 > Original author: [Oliver S. Smart](https://www.linkedin.com/in/osmart/),
 > developed for [BSc (Hons) Bioinformatics Degree Apprenticeship](
   https://www.anglia.ac.uk/bioinformatician),
-> [School of Life Sciences](https://www.anglia.ac.uk/science-and-engineering/life-sciences) 
+> [School of Life Sciences](https://www.anglia.ac.uk/science-and-engineering/life-sciences),
 > Anglia Ruskin University
 >
 > Copyright (c) 2018-2019 Anglia Ruskin University
