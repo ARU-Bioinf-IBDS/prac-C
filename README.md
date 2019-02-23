@@ -31,33 +31,42 @@ on how lists can be used and their similarities and differences to
 strings.
 
 ## The practical
-To use this practical you should either:
+To use this practical you should *either*:
 
-* Import the exercise as a library into your Azure Notebooks account,
-  by clicking on: 
-
+* If you are using Azure Notebooks import the practical as a library into your Azure Notebooks account,
+  by clicking on (and then accepting default options):\
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-ex-B/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/prac-C/)
 
-  If this unfamiliar, please review: 
-  [Getting Started Instructions using Azure Notebooks
-  ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-azure-notebooks).
+* *Or* if you are using Google Colab then:
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) workbook_C.ipynb](
+    https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-C/blob/master/workbook_C.ipynb) 
+    then *COPY TO DRIVE*.
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) homework_C.ipynb](
+    https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-C/blob/master/homework_C.ipynb) 
+    then *COPY TO DRIVE*.  
 
-* or if you are using a local Jupyter Notebook installation, then 
-  download:
+* *Or* if you are using a local Jupyter Notebook installation, then 
+  * download [workbook_C.ipynb](
+    https://raw.githubusercontent.com/ARU-Bioinf-IBDS/prac-C/master/workbook_C.ipynb)
+    by right clicking on the link and selecting *"Save Link As"*
+  * download [homework_C.ipynb](
+    https://raw.githubusercontent.com/ARU-Bioinf-IBDS/prac-C/master/homework_C.ipynb)
+    by right clicking on the link and selecting *"Save Link As"*
 
-  [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
-  ](https://github.com/ARU-Bioinformatics/ibdsA-ex-B/archive/master.zip)
+  Once you have downloaded the notebooks move them to a directory where you are
+  storing your work for this module (I would advise calling this `IBDS` and placing this in a
+  folder that is automatically backed up to OneDrive, GoogleDrive or similar). 
 
-  then unzip the file and move the directory to where you are storing your work.
-  If this unfamiliar, please review: 
-  [Getting Started Instructions using local Jupyter Notebook installation
-  ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-local-jupyter-notebook-installation).
+If this unfamiliar, please go back and look at 
+  [Practical A](https://github.com/ARU-Bioinf-IBDS/prac-A) 
+
 
 Then in Azure Notebooks or Jupyter Notebook:
 * open the workbook **workbook_C.ipynb** and work through it.
 * once you have completed the workbook, then move onto the homework book **homework_C.ipynb**
-* we will go through everyones completed notebook in *Seminar B*.
+* then go on to [Reflection on Practical C: lists and strings](
+  https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54039).
 
 -------------------------
 
