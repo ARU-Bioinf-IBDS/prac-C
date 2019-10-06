@@ -34,9 +34,9 @@ strings.
 To use this practical you should *either*:
 
 * If you are using Azure Notebooks import the practical as a library into your Azure Notebooks account,
-  by clicking on (and then accepting default options):\
+  by clicking on (and then accepting default options, except for ticking the public box):\
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/prac-C/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinf-IBDS/prac-C/)
 
 * *Or* if you are using Google Colab then:
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) workbook_C.ipynb](
