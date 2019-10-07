@@ -24,7 +24,9 @@ To prepare for this practical you should first work through
 
 from the [DataCamp](https://www.datacamp.com/)
 online course [Intro to Python for Data Science
-](https://www.datacamp.com/courses/intro-to-python-for-data-science).  
+](https://www.datacamp.com/courses/intro-to-python-for-data-science).
+If you are an experienced [Pythonista](https://en.wiktionary.org/wiki/Pythonista) then work
+through Chapter 4 on numpy and complete the course. 
 What you have learnt there is then used to explore
 how biological sequence data can be handled in Python. We will be concentrating
 on how lists can be used and their similarities and differences to 
